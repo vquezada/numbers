@@ -13,5 +13,5 @@ do
         else
                 echo "$i ODD"
         fi
-        N=$(($N+1))
+        N=$((N+1))
 done
